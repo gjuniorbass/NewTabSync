@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.gjunior.newtabsync"
-        minSdkVersion 21
-        targetSdkVersion 23
+        minSdkVersion 15
+        targetSdkVersion 15
         versionCode 1
         versionName "1.0"
     }

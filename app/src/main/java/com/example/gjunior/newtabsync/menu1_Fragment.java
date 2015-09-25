@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
+/*
  * Created by gjuni on 30/08/2015.
  */
 public class menu1_Fragment extends Fragment {
@@ -18,4 +18,5 @@ public class menu1_Fragment extends Fragment {
         rootview=inflater.inflate(R.layout.menu1_layout, container, false);
         return rootview;
     }
+    
 }
